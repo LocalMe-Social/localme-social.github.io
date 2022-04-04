@@ -14,7 +14,7 @@ h4 {
   font-family: "Raleway", sans-serif;
 }
 h2 {
-  text-transform: uppercase;
+  text-transform: none;
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
@@ -31,7 +31,7 @@ h4 {
   font-weight: 600;
 }
 h5 {
-  text-transform: uppercase;
+  text-transform: none;
   font-weight: 700;
   line-height: 20px;
 }
@@ -88,7 +88,7 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
-  text-transform: uppercase;
+  text-transform: none;
   color: #555;
   font-size: 15px;
   font-weight: 400;
@@ -163,7 +163,7 @@ hr {
 }
 .btn-custom {
   font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
+  text-transform: none;
   color: #fff;
   background-color: #5ca9fb;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
